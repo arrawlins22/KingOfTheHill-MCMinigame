@@ -33,5 +33,5 @@ Dive into a relentless King of the Hill game mode where players compete and chas
 - Unique custom loot items to discover.
 - Cosmetic system for player trails.
 
-## Video Demo
-**Link:** TODO
+## Media
+**Link:** https://www.youtube.com/watch?v=LolgSNNzRLU
