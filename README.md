@@ -31,6 +31,7 @@ Dive into a relentless King of the Hill game mode where players compete and chas
 - Engaging King of the Hill mechanics complemented by a point-based scoring system.
 - Rewarding kill streak points and an in-game shop.
 - Unique custom loot items to discover.
+- Cosmetic system for player trails.
 
 ## Video Demo
 **Link:** TODO
